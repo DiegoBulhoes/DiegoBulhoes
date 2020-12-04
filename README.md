@@ -2,7 +2,7 @@
 
 ##  🙏, I'm Diego Bulhões
 
-I like automating things, :building: pipelines, :cloud: Cloud computing, :rocket: DevOps, :new: Innovation and Automation :robot:
+I like automating things, :building_construction: pipelines, :cloud: Cloud computing, :rocket: DevOps, :new: Innovation and Automation :robot:
 
 - 🔭 Languages : Python and Go
 - 💬 Hobbies: cycling and walking
