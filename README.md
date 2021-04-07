@@ -17,10 +17,9 @@ class DiegoBulhoes:
 
     def __init__(self):
         self.username = 'DiegoBulhoes'
-        self.name = 'Diego Bulhoes'
         self.technology = {
-            'backend': ['Python', 'Django', 'NodeJS'],
-            'devops': ['Docker', 'Terraform', 'Ansible','Google Cloud', 'GitLab CI'],
+            'backend': ['Python', 'NodeJS'],
+            'devops': ['Docker', 'Terraform', 'Ansible','Google Cloud', 'GitHub Actions'],
             'frntend': ['VueJS', 'JavaScript', 'Vuetify'],
             'database': ['PostgreSQL', 'SQLite3', 'MongoDB'],
             'tools': ['Pandas', 'Jupyter notebook','Docker-compose'],
