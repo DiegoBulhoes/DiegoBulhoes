@@ -20,7 +20,7 @@ class DiegoBulhoes:
         self.technology = {
             'backend': ['Python', 'NodeJS'],
             'devops': ['Docker', 'Terraform', 'Ansible','Google Cloud', 'GitHub Actions'],
-            'frntend': ['VueJS', 'JavaScript', 'Vuetify'],
+            'frontend': ['VueJS', 'JavaScript', 'Vuetify'],
             'database': ['PostgreSQL', 'SQLite3', 'MongoDB'],
             'tools': ['Pandas', 'Jupyter notebook','Docker-compose'],
             'linux_distributions': ['Ubuntu', 'Debian','Fedora'],
