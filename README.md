@@ -7,8 +7,11 @@ I like to automate processes, :building_construction: pipelines, :cloud: Cloud c
 - 🔭 Languages : Python and Go
 - 💬 Hobbies: cycling and walking
 
-
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-DiegoBulhoes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegobulhoes/)](https://www.linkedin.com/in/DiegoBulhoes/)
+<a href="https://www.linkedin.com/in/DiegoBulhoes/">
+  <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+</a>
+<br>
+<br>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -19,13 +22,13 @@ class DiegoBulhoes:
         self.username = 'DiegoBulhoes'
         self.technology = {
             'backend': ['Python', 'NodeJS'],
-            'devops': ['Docker', 'Terraform', 'Ansible','Google Cloud', 'GitHub Actions'],
+            'devops': ['Docker', 'Terraform', 'Kubernetes', 'Ansible','Google Cloud', 'GitHub Actions'],
             'frontend': ['VueJS', 'JavaScript', 'Vuetify'],
             'database': ['PostgreSQL', 'SQLite3', 'MongoDB'],
             'tools': ['Pandas', 'Jupyter notebook','Docker-compose'],
             'linux_distributions': ['Ubuntu', 'Debian','Fedora'],
         }
-        self.interests = ["Golang","Kubernetes", "DevOps", "Cloud", "High-performance computing", "Microservices"]
+        self.interests = ["Golang", "DevOps", "Cloud", "High-performance computing", "Microservices"]
 
     def __str__(self):
         return self.name
@@ -34,3 +37,14 @@ class DiegoBulhoes:
 if __name__ == '__main__':
     me = DiegoBulhoes()
 ```
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<a href="https://github.com/DiegoBulhoes">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DiegoBulhoes&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DiegoBulhoes&layout=compact&custom_title&langs_count=8&theme=vue-dark"/>
+</a>
+</p>
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DiegoBulhoes&bg_color=273849&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
