@@ -47,4 +47,4 @@ if __name__ == '__main__':
 </a>
 </p>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DiegoBulhoes&bg_color=273849&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DiegoBulhoes's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DiegoBulhoes&bg_color=273849&color=41b883&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
